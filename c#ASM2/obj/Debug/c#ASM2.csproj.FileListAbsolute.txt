@@ -1,0 +1,13 @@
+D:\Programming\c#ASM2\c#ASM2\bin\Debug\c#ASM2.exe.config
+D:\Programming\c#ASM2\c#ASM2\bin\Debug\c#ASM2.exe
+D:\Programming\c#ASM2\c#ASM2\bin\Debug\c#ASM2.pdb
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c#ASM2.csproj.AssemblyReference.cache
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c_ASM2.Form1.resources
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c_ASM2.Properties.Resources.resources
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c#ASM2.csproj.GenerateResource.cache
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c#ASM2.csproj.CoreCompileInputs.cache
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c#ASM2.exe
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c#ASM2.pdb
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c_ASM2.Form2.resources
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c_ASM2.Form3.resources
+D:\Programming\c#ASM2\c#ASM2\obj\Debug\c_ASM2.frmLogin.resources
